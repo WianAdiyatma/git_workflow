@@ -1,8 +1,8 @@
 # git_workflow
 tugas literasi digital
 
-tree logo:
-
+branches(logo):
+https://github.com/WianAdiyatma/git_workflow/tree/logo
 
 ![image](https://user-images.githubusercontent.com/80669988/170697657-bf241d53-4f05-4f1f-af0c-3279a93ebc51.png)
 ![image](https://user-images.githubusercontent.com/80669988/170703107-34337fc0-7c6c-49da-8a83-47827988d943.png)
